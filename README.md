@@ -4,3 +4,13 @@ Python-based analysis scripts developed with AI assistance, reviewed and adapted
 ## Usage
 Install dependencies: `pip install -r requirements.txt`  
 Run: `python src/grade_homeworks.py`
+
+## Purpose
+This script was developed to support the evaluation of preclinical endodontic homework
+by automatically calculating adjusted scores based on letter grades and submission delays,
+and by generating a consolidated summary sheet for instructors.
+
+## Scope and Limitations
+The script is designed for structured Excel files following a predefined format.
+It does not perform data validation beyond basic checks and assumes consistent
+color-coding and grading conventions defined by the instructor.
