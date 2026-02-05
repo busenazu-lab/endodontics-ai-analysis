@@ -14,3 +14,10 @@ and by generating a consolidated summary sheet for instructors.
 The script is designed for structured Excel files following a predefined format.
 It does not perform data validation beyond basic checks and assumes consistent
 color-coding and grading conventions defined by the instructor.
+
+## Language Variants and Modular Design
+
+-`grade_homeworks_turkish.py` 
+In addition to the original batch grading script, the project includes
+a modular structure and a Turkish-language implementation to improve
+usability in local educational settings.
