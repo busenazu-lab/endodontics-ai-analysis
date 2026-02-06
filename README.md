@@ -21,3 +21,8 @@ color-coding and grading conventions defined by the instructor.
 In addition to the original batch grading script, the project includes
 a modular structure and a Turkish-language implementation to improve
 usability in local educational settings.
+
+## Citation
+All versions: DOI: 10.5281/zenodo.18492528  
+Latest version (v3): DOI: 10.5281/zenodo.18507815
+
