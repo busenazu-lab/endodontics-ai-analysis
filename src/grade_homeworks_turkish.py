@@ -5,8 +5,8 @@ import xml.etree.ElementTree as ET
 from openpyxl.utils import get_column_letter
 from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 
-INPUT_XLSX = r"3. SINIF 8. HAFTA ÖDEVLERİ - Kod denemesi.xlsx"
-OUTPUT_XLSX = r"3. SINIF 8. HAFTA ÖDEVLERİ - Kod denemesi_graded.xlsx"
+INPUT_XLSX = r"3. SINIF ÖDEVLERİ - Kod denemesi.xlsx"
+OUTPUT_XLSX = r"3. SINIF ÖDEVLERİ - Kod denemesi_graded.xlsx"
 
 MAX_COL = 20  # A..T
 
